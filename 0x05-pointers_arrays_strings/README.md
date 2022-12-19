@@ -1,0 +1,1 @@
+Practcing pointers and arrays
